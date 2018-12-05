@@ -1,2 +1,4 @@
- # Build settings
- baseurl: ""
+# Build settings
+baseurl: "MySite" 
+
+# baseurl: "MySite/" 
